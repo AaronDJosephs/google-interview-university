@@ -75,7 +75,7 @@
     - [שיבוץ](#scheduling)
     - [יישום Implement system routines](#implement-system-routines)
     - [חיפוש ופעולות על מחרוזות](#string-searching--manipulations)
-- [  סילומיות (סקאלביליות),עיצוב מערכות, עיבוד נתונים ](#system-design-scalability-data-handling) (if you have 4+ years experience)
+- [  סילומיות (סקאלביליות),עיצוב מערכות, עיבוד נתונים ](#system-design-scalability-data-handling) (אם יש לך 4+ שנות ניסיון)
 - [חזרה גנרלית](#final-review)
 - [שאלות קוד לדוגמה](#coding-question-practice)
 - [שאלות אתגר](#coding-exerciseschallenges)
